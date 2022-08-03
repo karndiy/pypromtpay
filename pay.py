@@ -6,8 +6,6 @@ import sys
 print(sys.path)
 print("Current working directory: {0}".format(os.getcwd()))
 
-print("Current working directory: {0}".format(os.getcwd()))
-
 # generate a payload
 id_or_phone_number = "0892343728"
 payload = qrcode.generate_payload(id_or_phone_number)
