@@ -2,7 +2,7 @@ Installation
 pip install promptpay
 
 # or
-git clone https://github.com/jojoee/promptpay
+git clone https://github.com/karndiy/pypromtpay
 cd promptpay
 python setup.py install
 Usage
